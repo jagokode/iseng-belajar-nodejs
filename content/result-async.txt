@@ -1,0 +1,1 @@
+The result is: Hai from first file. Halo from second file

@@ -1,0 +1,9 @@
+Cara remove package:
+--------------------
+cara 1: npm uninstall <package_name>
+cara 2: hapus package dari package.json dan npm install
+
+Cara install package:
+---------------------
+local: npm i <package_name> atau npm i <package_name> -D 
+global: npm i -g <package_name>
